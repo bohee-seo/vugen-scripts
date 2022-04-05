@@ -1,0 +1,290 @@
+WSFilter: Init: data wsSocketSort
+SocketSort: 0: session id error
+SocketSort
+SocketSort: 1: session id error
+SocketSort
+SocketSort: 2: session id error
+SocketSort
+SocketSort: 3: session id error
+SocketSort
+SocketSort: 4: session id error
+SocketSort
+SocketSort: 5: session id error
+SocketSort
+SocketSort: 6: session id error
+SocketSort
+SocketSort: 7: session id - 1: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 9: session id - 2: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 11: session id - 3: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 13: session id error
+SocketSort
+SocketSort: 14: session id - 4: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 16: session id error
+SocketSort
+SocketSort: 17: session id error
+SocketSort
+SocketSort: 18: session id error
+SocketSort
+SocketSort: 19: session id error
+SocketSort
+SocketSort: 20: session id error
+SocketSort
+SocketSort: 21: session id error
+SocketSort
+SocketSort: 22: session id error
+SocketSort
+SocketSort: 23: session id error
+SocketSort
+SocketSort: 24: session id error
+SocketSort
+SocketSort: 25: session id error
+SocketSort
+SocketSort: 26: session id - 1: wplus_connect
+SocketSort
+SocketSort: 27: session id - 2: wplus_connect
+SocketSort
+SocketSort: 28: session id error
+SocketSort
+SocketSort: 29: session id - 3: wplus_connect
+SocketSort
+SocketSort: 30: session id - 4: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 32: session id - 5: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 34: session id - 6: wplus_socket
+SocketSort
+SocketSort: 35: session id - 7: wplus_socket
+SocketSort
+SocketSort: 36: session id - 8: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 38: session id error
+SocketSort
+SocketSort: 39: session id error
+SocketSort
+SocketSort: 40: session id - 9: wplus_socket
+SocketSort
+SocketSort: 41: session id - 10: wplus_socket
+SocketSort
+SocketSort: 42: session id error
+SocketSort
+SocketSort: 43: session id - 11: wplus_connect
+SocketSort
+SocketSort: 44: session id - 11: wplus_property_sz
+SocketSort
+SocketSort: 45: session id - 11: wplus_property_sz
+SocketSort
+SocketSort: 46: session id - 12: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 48: session id error
+SocketSort
+SocketSort: 49: session id error
+SocketSort
+SocketSort: 50: session id - 13: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 52: session id error
+SocketSort
+SocketSort: 53: session id error
+SocketSort
+SocketSort: 54: session id - 14: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 56: session id error
+SocketSort
+SocketSort: 57: session id - 15: wplus_connect
+SocketSort
+SocketSort: 58: session id error
+SocketSort
+SocketSort: 59: session id - 16: wplus_connect
+SocketSort
+SocketSort: 60: session id - 17: wplus_socket
+SocketSort
+SocketSort
+SocketSort: 62: session id error
+SocketSort
+SocketSort: 63: session id error
+SocketSort
+SocketSort: 64: session id error
+SocketSort
+SocketSort: 65: session id - 18: wplus_connect
+SocketSort
+SocketSort: 66: session id error
+SocketSort
+SocketSort: 67: session id error
+SocketSort
+SocketSort: 68: session id - 19: wplus_connect
+SocketSort
+SocketSort: 69: session id - 20: wplus_connect
+SocketSort
+SocketSort: 70: session id - 19: wplus_property_sz
+SocketSort
+SocketSort: 71: session id - 19: wplus_property_sz
+SocketSort
+SocketSort: 72: session id - 20: wplus_property_sz
+SocketSort
+SocketSort: 73: session id - 20: wplus_property_sz
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id error
+WSFilter
+WSFilter: 0: session id - 1: wplus_socket
+WSFilter
+WSFilter: 1: session id 1: wplus_close_socket
+WSFilter: 1: not winsock
+WSFilter
+WSFilter: 2: session id - 2: wplus_socket
+WSFilter
+WSFilter: 3: session id 2: wplus_close_socket
+WSFilter: 3: not winsock
+WSFilter
+WSFilter: 4: session id - 3: wplus_socket
+WSFilter
+WSFilter: 5: session id 3: wplus_close_socket
+WSFilter: 5: not winsock
+WSFilter
+WSFilter: 6: session id error
+WSFilter
+WSFilter: 6: session id - 4: wplus_socket
+WSFilter
+WSFilter: 7: session id 4: wplus_close_socket
+WSFilter: 7: not winsock
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id error
+WSFilter
+WSFilter: 8: session id - 1: wplus_connect
+WSFilter
+WSFilter: 9: session id - 2: wplus_connect
+WSFilter
+WSFilter: 10: session id error
+WSFilter
+WSFilter: 10: session id - 3: wplus_connect
+WSFilter
+WSFilter: 11: session id - 4: wplus_socket
+WSFilter
+WSFilter: 12: session id 4: wplus_close_socket
+WSFilter: 12: not winsock
+WSFilter
+WSFilter: 13: session id - 5: wplus_socket
+WSFilter
+WSFilter: 14: session id 5: wplus_close_socket
+WSFilter: 14: not winsock
+WSFilter
+WSFilter: 15: session id - 6: wplus_socket
+WSFilter
+WSFilter: 16: session id - 7: wplus_socket
+WSFilter
+WSFilter: 17: session id - 8: wplus_socket
+WSFilter
+WSFilter: 18: session id 8: wplus_close_socket
+WSFilter: 18: not winsock
+WSFilter
+WSFilter: 19: session id error
+WSFilter
+WSFilter: 19: session id error
+WSFilter
+WSFilter: 19: session id - 9: wplus_socket
+WSFilter
+WSFilter: 20: session id - 10: wplus_socket
+WSFilter
+WSFilter: 21: session id error
+WSFilter
+WSFilter: 21: session id - 11: wplus_connect
+WSFilter
+WSFilter
+WSFilter
+WSFilter: 24: session id - 12: wplus_socket
+WSFilter
+WSFilter: 25: session id 12: wplus_close_socket
+WSFilter: 25: not winsock
+WSFilter
+WSFilter: 26: session id error
+WSFilter
+WSFilter: 26: session id error
+WSFilter
+WSFilter: 26: session id - 13: wplus_socket
+WSFilter
+WSFilter: 27: session id 13: wplus_close_socket
+WSFilter: 27: not winsock
+WSFilter
+WSFilter: 28: session id error
+WSFilter
+WSFilter: 28: session id error
+WSFilter
+WSFilter: 28: session id - 14: wplus_socket
+WSFilter
+WSFilter: 29: session id 14: wplus_close_socket
+WSFilter: 29: not winsock
+WSFilter
+WSFilter: 30: session id error
+WSFilter
+WSFilter: 30: session id - 15: wplus_connect
+WSFilter
+WSFilter: 31: session id error
+WSFilter
+WSFilter: 31: session id - 16: wplus_connect
+WSFilter
+WSFilter: 32: session id - 17: wplus_socket
+WSFilter
+WSFilter: 33: session id 17: wplus_close_socket
+WSFilter: 33: not winsock
+WSFilter
+WSFilter: 34: session id error
+WSFilter
+WSFilter: 34: session id error
+WSFilter
+WSFilter: 34: session id error
+WSFilter
+WSFilter: 34: session id - 18: wplus_connect
+WSFilter
+WSFilter: 35: session id error
+WSFilter
+WSFilter: 35: session id error
+WSFilter
+WSFilter: 35: session id - 19: wplus_connect
+WSFilter
+WSFilter: 36: session id - 20: wplus_connect
+WSFilter
+WSFilter
+WSFilter
+WSFilter

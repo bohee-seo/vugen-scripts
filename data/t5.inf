@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5.json
+URL1=https://whatfix.com/api?service=admin&action=extension_config
+Total=2
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=t5_RequestBody.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_Roboto-Bold-webfont.html
+URL2=http://www.advantageonlineshopping.com/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?
+[ProtocolInfo]
+ProtocolId=QTWeb

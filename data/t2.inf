@@ -1,0 +1,15 @@
+[t2]
+FileName1=t2.json
+URL1=https://whatfix.com/api?service=admin&action=extension_config
+Total=3
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_main.min.html
+URL2=http://www.advantageonlineshopping.com/main.min.js
+FileName3=t2_favicon.ico
+URL3=http://www.advantageonlineshopping.com/css/images/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

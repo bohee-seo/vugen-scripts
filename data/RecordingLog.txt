@@ -1,0 +1,370 @@
+[API Trapper      (56f4:8f58)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (56f4: c10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (56f4: c10)] Load Network Traffic Analyzers:
+[Network Analyzer (56f4: c10)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (56f4: c10)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (56f4: c10)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (56f4: c10)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (56f4: c10)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (56f4: c10)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (56f4: c10)]     Analyzer Module: WinSock (value=GetRawProtocolAnalyzer:api_sock_proxy_x64.dll)
+[Network Analyzer (56f4: c10)]     + Network Analyzer: api_sock_proxy_x64.dll @ GetRawProtocolAnalyzer Loaded!
+[Network Analyzer (56f4: c10)]     Analyzer Module: local_server (value=)
+[Network Analyzer (56f4: c10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (56f4:a070)] Address lookup for SGseobo03 = 192.168.246.1
+[API Trapper      (6644:4cc0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (6644:3614)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6644:3614)] Load Network Traffic Analyzers:
+[Network Analyzer (6644:3614)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (6644:3614)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (6644:3614)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (6644:3614)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (6644:3614)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (6644:3614)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (6644:3614)]     Analyzer Module: WinSock (value=GetRawProtocolAnalyzer:api_sock_proxy.dll)
+[Network Analyzer (6644:3614)]     + Network Analyzer: api_sock_proxy.dll @ GetRawProtocolAnalyzer Loaded!
+[Network Analyzer (6644:3614)]     Analyzer Module: local_server (value=)
+[Network Analyzer (6644:3614)] ------------------------------------------------------------------------------------------
+[Network Analyzer (6644:3ce8)] Address lookup for SGseobo03 = 192.168.246.1
+[API Trapper      (8f70: 93c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\100.0.1185.29\BHO\ie_to_edge_stub.exe
+[API Trapper      (800c:71fc)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (34fc:6e30)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (6644: 87c)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:64c0)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:64c0)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (6644:3ce8)] "GET /"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 407 bytes (Service=HTTP)
+[Network Analyzer (6644: 87c)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 3191 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/main.min.css"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 438 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Down_arrow.svg"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 495 bytes (Service=HTTP)
+[Network Analyzer (6644:64c0)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:64c0)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 1122 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /vendor/requirejs/require.js"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 469 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 2772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 11088 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 4158 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 9702 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 2802 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 4158 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 9702 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 2009 bytes  (Service=HTTP)
+[Network Analyzer (6644:1ce4)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:1ce4)] Request Connection: Remote Server @ 104.18.31.171:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (6644:5028)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6644:5028)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1, ciphers:ECDHE-RSA-AES256-SHA)
+[Web Request      (6644:3ce8)] "GET /css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 176 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "POST /api?service=admin&action=extension_config"   
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 48 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/fonts/roboto_light_macroman/Roboto-Light-webfont.eot?"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 517 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 25 bytes (SSL) (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /main.min.js"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 453 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 7422 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 7802 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 607 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 2772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 2772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 11088 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 4406 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 8316 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 248 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 7178 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 8316 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 3020 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 7178 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 248 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 10944 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 152 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 25 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "POST /api?service=admin&action=extension_config"   
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 48 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/favicon.ico"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 342 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/logo.png"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 489 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 519 bytes (Service=HTTP)
+[Network Analyzer (6644:60d0)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:60d0)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (6644:3614)] Address lookup for SGseobo03 = 192.168.246.1
+[Web Request      (6644:3ce8)] "GET /css/images/closeDark.png"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer (6644:3614)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (6644:3ce8)] "GET /services.properties"   
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Client -> Server @ : 431 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 1478 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 607 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 2970 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 9232 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 1423 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 1305 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?"   
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Client -> Server @ : 589 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 152 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 25 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "POST /api?service=admin&action=extension_config"   
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 48 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 567 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/FacebookLogo.png"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 571 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 1354 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 6901 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 663 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "POST /accountservice/ws/GetAccountConfigurationRequest"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 361 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 607 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 2772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 11088 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 7448 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 1497 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/api/v1/categories"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 541 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 4837 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/api/v1/deals/search?dealOfTheDay=true"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 561 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 710 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /app/tempFiles/popularProducts.json"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 550 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 892 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /app/views/home-page.html"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 2618 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Special-offer.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 572 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/chat_logo.png"   
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Client -> Server @ : 568 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/GoUp.png"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 563 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/facebook.png"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 567 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/twitter.png"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (6644:64c0)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:64c0)] Request Connection: Remote Server @ 54.227.55.203:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 2439 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 3328 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/linkedin.png"   
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Client -> Server @ : 567 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot?"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 589 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Banner1.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 1908 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 2389 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Banner2.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 566 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Banner3.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 2032 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Popular-item3.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Client -> Server @ : 572 bytes (Service=HTTP)
+[Network Analyzer (6644:aaa0)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644: 87c)] Address lookup for SGseobo03 = 192.168.246.1
+[Network Analyzer (6644:aaa0)] Request Connection: Remote Server @ 142.250.66.46:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (6644: 87c)] Request Connection: Remote Server @ 142.250.66.46:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (6644:3d3c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6644:3d3c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 13860 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /analytics.js"   
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Client -> Server @ : 447 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 8141 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Popular-item2.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 572 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 248 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 4924 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/Popular-item1.jpg"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 572 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:751c)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1396 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 1092 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:751c)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (6644:3ce8)] "POST /j/collect?v=1&_v=j96&a=603717092&t=pageview&_s=1&dl=http%3A%2F%2Fwww.advantageonlineshopping.com%2F&ul=en-us&de=utf-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1920x1200&vp=1794x1091&je=1&_u=IEBAAEQAAAAAAC~&jid=793151084&gjid=851630677&cid=1284002495.1649133827&tid=UA-81334227-1&_gid=1384948611.1649133827&_r=1&_slc=1&z=59244304"   
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Client -> Server @ : 743 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /collect?v=1&_v=j96&a=603717092&t=pageview&_s=2&dl=http%3A%2F%2Fwww.advantageonlineshopping.com%2F&dp=%2F&ul=en-us&de=utf-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1920x1200&vp=1794x1091&je=1&_u=IEBAAEQAAAAAAC~&jid=&gjid=&cid=1284002495.1649133827&tid=UA-81334227-1&_gid=1384948611.1649133827&z=1753333606"   
+[Network Analyzer (6644:3ce8)]   (Sid: 20) Client -> Server @ : 770 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 20) Server -> Client : 602 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 19) Server -> Client : 634 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 6902 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 13860 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /css/images/arrow_right.png"   
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Client -> Server @ : 570 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 695 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/fetchImage?image_id=speakers"   
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Client -> Server @ : 580 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 11088 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 1634 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 10297 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 5772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 4902 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/fetchImage?image_id=tablets"   
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Client -> Server @ : 579 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 2259 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/fetchImage?image_id=laptops"   
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Client -> Server @ : 579 bytes (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/fetchImage?image_id=mice"   
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 1319 bytes  (Service=HTTP)
+[Web Request      (6644:3ce8)] "GET /catalog/fetchImage?image_id=headphones"   
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Client -> Server @ : 582 bytes (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 1386 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  2) Server -> Client : 2699 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 12970 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 11584 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 15) Server -> Client : 2132 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 4654 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  3) Server -> Client : 8917 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 4158 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 9702 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 8316 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 8316 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 12474 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 1386 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 4158 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 2772 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 9702 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 13860 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 15246 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 5544 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 11088 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 248 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 5792 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 18) Server -> Client : 14971 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 248 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 1634 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 8564 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 6930 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 3020 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 5792 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 8564 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 11336 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 2232 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 8316 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 14108 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid:  1) Server -> Client : 8005 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 16) Server -> Client : 7800 bytes  (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 152 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 25 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (6644:3ce8)] "POST /api?service=admin&action=extension_config"   
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Client -> Server @ : 48 bytes (SSL)(Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 607 bytes (SSL) (Service=HTTP)
+[Network Analyzer (6644:3ce8)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
